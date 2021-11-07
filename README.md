@@ -1,0 +1,2 @@
+# ojjo
+Online jewelry store
