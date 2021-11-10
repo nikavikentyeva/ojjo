@@ -636,9 +636,6 @@ li {
     body.lock .nav::before {
         height: 60px;
     }
-    .header_inner {
-        height: 60px;
-    }
 
     .second_slide h4 {
         font-size: 18px;
